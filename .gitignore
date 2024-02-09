@@ -72,7 +72,6 @@ CMakeLists.txt.user*
 # Binaries
 # --------
 *.dll
-*.exe
 
 # files
 myDB.py
