@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['..\\..\\..\\SUN_Article_Fetcher\\main.py'],
+    ['..\\..\\SUN_Article_Fetcher\\main.py'],
     pathex=[],
     binaries=[],
     datas=[],
